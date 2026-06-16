@@ -7,8 +7,8 @@ const API_URL =
   
   // client_id:"e77fc3cf-b8d0-4c60-a5e0-e0cbf614247f",
   client_id:"6ff36ffb-3074-4a1e-ae11-a86d9678c9dd",
-  redirect_uri: "https://localhost:3000/callback",
-    // redirect_uri: "https://philips-next.netlify.app/callback",
+  // redirect_uri: "https://localhost:3000/callback",
+    redirect_uri: "https://m2itest3.netlify.app/callback",
   response_type: "code",
   scope: "openid",
   // userStore: new WebStorageStateStore({ store: window.localStorage }),
